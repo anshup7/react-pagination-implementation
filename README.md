@@ -1,2 +1,2 @@
 # react-pagination-implementation
-Created with CodeSandbox
+Created Minimalistic pagination implementation with React.
